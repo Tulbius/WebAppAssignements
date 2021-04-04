@@ -37,14 +37,13 @@ function isUserRegistered() {
 
 //SAVE YOUR IMAGE
 
-
-
-
 function save_image(){
     let dataURL = canvas.toDataURL();
     //console.log(dataURL);
     window.open().document.write('<img src="' + dataURL + '"/>')
 }
+
+
 //EVENT
 
 addEventListener('load', () => {
