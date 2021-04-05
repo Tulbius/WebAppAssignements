@@ -22,10 +22,13 @@ After opening a new blank window, we only need to add a <img/> with the link.
 Putting everything in a function, itself called on a button onClick method and that's it !
 
 
-## Do you want to try ?  :face_with_monocle: 
+## Do you want to try ?  
+:face_with_monocle: 
 
 If you want to run it on your own machine, download the zip file :card_box: 
 
-Run ```npm install``` to get all usefull packages :books:   
+Run **```npm install```** to get all usefull packages :books:   
 
-And then  ```node server.js```
+And then  **```node server.js```**
+
+PS : I have tried to implement your UI Tips, which, unfortunately **```event.keyCode```** is now deprecated
