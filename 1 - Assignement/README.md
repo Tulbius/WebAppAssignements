@@ -23,7 +23,7 @@ Putting everything in a function, itself called on a button onClick method and t
 
 
 ## Do you want to try ?  
-:face_with_monocle: 
+:socks: 
 
 If you want to run it on your own machine, download the zip file :card_box: 
 
