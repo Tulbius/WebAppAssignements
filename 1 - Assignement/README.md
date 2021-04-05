@@ -7,7 +7,7 @@ Follow this link :link:
 
 https://arcane-spire-64979.herokuapp.com/
 
-You will find an extra button on the right side. This button will display your current drawing into a new window  :frame_photo:
+You will find an extra button on the right side. This button will display your current drawing into a new window.
 Thus, you'll be able to download it as a png image :arrow_down: 
 
 I know you are testing our projects on Chrome, unfortunately, I cannot explain why, this seems not to work on Chrome :sob: 
