@@ -1,6 +1,6 @@
 # Assignement 1
 
-## How does it work ?
+## How does it work ? 💻
 
 
 Follow this link :link: 
@@ -16,7 +16,7 @@ The image is displayed but cannot be save by right clicking on it. You will need
 On my Mozilla it works perfectly, and after a lot of attempts, I still cannot figure out why it doesn't work on Chrome :worried: 
 
 
-## What did I do ?
+## What did I do ? ✍️
 
 
 Using the canvas.toDataURL method() we can access a link reference of the current canvas whiteboard.
@@ -24,7 +24,7 @@ After opening a new blank window, we only need to add a <img/> with the link.
 Putting everything in a function, itself called on a button onClick method and that's it !
 
 
-## Do you want to try ?  
+## Do you want to try ? ☑️
 
 
 If you want to run it on your own machine, download the zip file.📂
