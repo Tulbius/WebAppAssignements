@@ -2,6 +2,7 @@
 
 ## How does it work ?
 
+
 Follow this link :link: 
 
 https://arcane-spire-64979.herokuapp.com/
@@ -17,15 +18,16 @@ On my Mozilla it works perfectly, and after a lot of attempts, I still cannot fi
 
 ## What did I do ?
 
+
 Using the canvas.toDataURL method() we can access a link reference of the current canvas whiteboard.
 After opening a new blank window, we only need to add a <img/> with the link.
 Putting everything in a function, itself called on a button onClick method and that's it !
 
 
 ## Do you want to try ?  
-:socks: 
 
-If you want to run it on your own machine, download the zip file :card_box: 
+
+If you want to run it on your own machine, download the zip file.:card_box: 
 
 Run **```npm install```** to get all usefull packages :books:   
 
