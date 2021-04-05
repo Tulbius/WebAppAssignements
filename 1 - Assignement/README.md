@@ -27,7 +27,7 @@ Putting everything in a function, itself called on a button onClick method and t
 ## Do you want to try ?  
 
 
-If you want to run it on your own machine, download the zip file.:card_box: 
+If you want to run it on your own machine, download the zip file.📂
 
 Run **```npm install```** to get all usefull packages :books:   
 
