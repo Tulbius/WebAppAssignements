@@ -33,4 +33,4 @@ Run **```npm install```** to get all usefull packages :books:
 
 And then  **```node server.js```**
 
-**PS : I have tried to implement your UI Tips, which, unfortunately** **```event.keyCode```** **is now deprecated**
+**PS : I have tried to implement your UI Tips, which was great ! Unfortunately** **```event.keyCode```** **is now deprecated**
